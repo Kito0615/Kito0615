@@ -13,5 +13,5 @@ Skills: Objective-C / Swift / Python / Bash
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kito0615)](https://github.com/Kito0615/Kito0615)
 
-![GitHub metrics](https://metrics.lecoq.io/Kito0615)  
+![Kito0615's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kito0615)
 
