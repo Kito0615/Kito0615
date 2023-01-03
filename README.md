@@ -9,7 +9,7 @@ Skills: Objective-C / Swift / Python / Bash
 - 📫 How to reach me: anar930906@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kito0615)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anar0615.wordpress.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kito0615)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anar0615.wordpress.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kito0615)](https://github.com/Kito0615/Kito0615)
 
