@@ -15,3 +15,6 @@ Skills: Objective-C / Swift / Python / Bash
 
 ![Kito0615's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kito0615)
 
+<a href="https://github.com/Kito0615/Kito0615">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kito0615&theme=react-dark" style="width: 800px;"/>
+</a>
